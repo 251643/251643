@@ -24,14 +24,3 @@
 
 <br/>
 
-    
-### ERD
-<img width="915" alt="image" src="https://user-images.githubusercontent.com/102898794/193406479-9c6a2917-4453-4998-9015-ff7a412661fb.png">
-
-
-
-###  [API](https://www.notion.so/API-958fc1f5810045a684d94cc16b43772a)
-
-###  [HomecomingDay 와이어 프레임](https://www.figma.com/file/b5xDAy68cty1Rguu5dqPZR/D%EB%B0%98-1%EC%A1%B0-%ED%99%88%EC%BB%A4%EB%B0%8D%EB%8D%B0%EC%9D%B4-%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84?node-id=995%3A3062)
-
-
