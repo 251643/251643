@@ -1,6 +1,8 @@
 <div align=center>
  👋 Hi, I’m sol
 
+ </br>
+ 
 ✨Tech Stack✨
 
 Techs that i've used at least once
