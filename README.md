@@ -1,5 +1,5 @@
 <div align="center">
-    ### Hi there 👋
+   <div style="font-size:20px;font-weight:600;"> Hi there 👋 </div>
 
 * * *
 
